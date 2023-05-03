@@ -46,13 +46,13 @@ export function Footer() {
     <PageFooter>
       <div>
         <p>
-          © 2018 – {new Date().getFullYear()}{' '}
-          <a href="https://saadq.com">Saad Quadri</a>.
+          © 2023 – {new Date().getFullYear()}{' '}
+          <a href="https://github.com/KingDavidJnr">David Oduse</a>.
         </p>
         <p>
           Resumake will remain free and open source forever, please consider{' '}
           <a href="https://paypal.com">donating</a> or contributing on{' '}
-          <a href="https://github.com/saadq/resumake.io">GitHub!</a> ❤
+          <a href="https://github.com/KingDavidJnr/resumebuzz">GitHub!</a> ❤
         </p>
       </div>
     </PageFooter>
