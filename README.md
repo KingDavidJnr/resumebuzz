@@ -1,2 +1,2 @@
-# resumebuzz
-A website that automatically generates resumes for users
+# ResumeBuzz project
+This is a web app project that automatically generates resumes for users.
